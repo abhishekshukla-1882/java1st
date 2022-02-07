@@ -1,0 +1,35 @@
+.container{
+    margin-left: 20%;
+    margin-top: 10%;
+    font-size: 20px;
+    
+}
+* {
+    margin-top: 3%;
+}
+input{
+    /* size: 5%; */
+    width: 35%;
+    padding: 1%;
+}
+button{
+    margin-left: 15%;
+    margin-top: 5%;
+    width: 10%;
+    padding: 1%;
+    border-radius: 50px;
+
+
+}
+button:hover{
+    background-color: aqua;
+}
+.container h2{
+    margin-left: 20%;
+    margin-bottom: 3%;
+}
+#recom{
+    margin-left: 20%;
+    margin-top: 5%;
+    font-size: 35px;
+}
